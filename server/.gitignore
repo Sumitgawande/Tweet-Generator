@@ -1,6 +1,7 @@
 # Ignore Python virtual environment
 venv/
 ENV/
+.env
 tweet-gen-env/
 __pycache__/
 *.pyc
